@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
+            "title": "Simple Print",
             "content": "print(&#39;Hello World&#39;) .",
-            "url": "https://itsmejay80.github.io/my-blog/2022/06/02/example.html",
-            "relUrl": "/2022/06/02/example.html",
+            "url": "https://itsmejay80.github.io/my-blog/jupyter/numpy/2022/06/02/example.html",
+            "relUrl": "/jupyter/numpy/2022/06/02/example.html",
             "date": " • Jun 2, 2022"
         }
         
